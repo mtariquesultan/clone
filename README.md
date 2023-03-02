@@ -1,3 +1,3 @@
 # clone
 pull
-# 2nd pull with test
+# 2nd pull with update
